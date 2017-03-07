@@ -1,2 +1,2 @@
-my:
-  message: hello,dev
+my-config:
+  appName: my-dev

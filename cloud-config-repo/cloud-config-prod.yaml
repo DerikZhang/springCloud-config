@@ -1,2 +1,2 @@
-my:
-  message: hello,prod
+my-config:
+  appName: my-prod
